@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on unknown
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning <img src="https://img.shields.io/github/languages/top/dpy0912/dpy0912?label=Java" alt="Java"> <img src="https://img.shields.io/github/languages/top/dpy0912/dpy0912?label=JavaScript" alt="JavaScript"> <img src="https://img.shields.io/github/languages/top/dpy0912/dpy0912?label=TypeScript" alt="TypeScript">
 - 👯 I’m looking to collaborate on push in for me your work
 - 🤔 I’m looking for help with looking for a job
 - 💬 Ask me about Vue、Vue3、TypeScript、JavaScript、Java、Node.js
