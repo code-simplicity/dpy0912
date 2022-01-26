@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpy0912&show_icons=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpy0912&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpy0912)](https://github.com/anuraghazra/github-readme-stats)
