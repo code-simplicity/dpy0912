@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <img src="https://img.shields.io/badge/%E8%81%94%E7%B3%BB%E6%88%91-dupyi0912%40gmail.com-blue" alt="email">
 - 😄 Pronouns: bugdr
 - ⚡ Fun fact: 今天还没有学习
-- 
-![](https://github-readme-stats.vercel.app/api?username=dpy0912)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpy0912&show_icons=true&theme=radical)
