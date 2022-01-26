@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: bugdr
 - ⚡ Fun fact: 今天还没有学习
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpy0912&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpy0912&show_icons=true&theme=synthwave)
