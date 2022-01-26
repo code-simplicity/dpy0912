@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 今天还没有学习
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpy0912&show_icons=true&theme=synthwave)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpy0912&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
