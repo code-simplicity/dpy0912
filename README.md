@@ -20,6 +20,7 @@
 </p>
 
 <p align = "center" >
-  <img src = "https://komarev.com/ghpvc/?username=dpy0912" >
+  <img align = "left" src = "https://github-readme-streak-stats.herokuapp.com/?user=dpy0912&theme=tokyonight" width="45%">
+  <img align = "right" src = "https://github-profile-trophy.vercel.app/?username=dpy0912&theme=tokyonight" width="50%" >
 </p>
 
