@@ -11,7 +11,7 @@
 
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=dpy0912&count_private=true&show_icons=true&theme=github" width="50%">
-  <img align = "left" src = "https://github-readme-streak-stats.herokuapp.com/?user=dpy0912&theme=vue" width="48%">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=dpy0912&theme=vue" width="46%">
 </p>
 
 <p align = "left">
@@ -19,7 +19,7 @@
 </p>
 
 <p align = "left" >
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dpy0912&theme=xcode" width="50%">
-  <img align = "right" src = "https://github-profile-trophy.vercel.app/?username=dpy0912&theme=merko" width="48%" >
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dpy0912&theme=xcode" width="30%">
+  <img src = "https://github-profile-trophy.vercel.app/?username=dpy0912&theme=merko" width="50%" >
 </p>
 
